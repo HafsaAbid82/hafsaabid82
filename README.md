@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Hafsa Abid
-![Profile Banner](https://codeagepk.com/wp-content/uploads/2020/12/home-gif.gif)
+![Profile Banner]<img src="https://codeagepk.com/wp-content/uploads/2020/12/home-gif.gif" alt="Profile Banner" width="800" height="150" />
 
 ### 🎓 Computer Science Student | 💻 MERN Stack Developer  
 
