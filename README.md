@@ -39,7 +39,7 @@ I'm eager to collaborate on **Web Development** projects, from modern web apps t
 ---
 
 ### 📈 GitHub Stats  
-![Abdul Rehman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsa-abid&show_icons=true&theme=radical)  
+![Abdul Rehman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsaabid82&show_icons=true&theme=radical)  
 
 
 ### 📫 How to Reach Me  
