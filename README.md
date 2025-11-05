@@ -13,7 +13,7 @@
 ---
 
 ### 🌱 Currently Learning  
-🚀 Docker and how to optimize workflows for development and deployment  
+Python for Ai  
 
 ---
 
